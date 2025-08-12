@@ -35,3 +35,8 @@ A screen recording of the project workflow is included in the repository
   - **Absolute and relative scores** by country and industry.
   - **Feature importances** displayed for each score to enhance model transparency.
   - Filtering and comparison tools across business segments.
+
+
+
+How to run this?
+The attached ZIP file contains the Streamlit code and model. Running it and hosting it locally will launch the Streamlit dashboard, which generates the scores. Please refer to the included recording for navigation instructions.
